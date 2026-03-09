@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/arknights-pass-simulation2.0/static/css/main.45e1622d.css",
-    "main.js": "/arknights-pass-simulation2.0/static/js/main.0df77efc.js",
-    "index.html": "/arknights-pass-simulation2.0/index.html",
-    "main.45e1622d.css.map": "/arknights-pass-simulation2.0/static/css/main.45e1622d.css.map",
-    "main.0df77efc.js.map": "/arknights-pass-simulation2.0/static/js/main.0df77efc.js.map"
+    "main.css": "/arknights-pass-simulator2.0/static/css/main.45e1622d.css",
+    "main.js": "/arknights-pass-simulator2.0/static/js/main.0df77efc.js",
+    "index.html": "/arknights-pass-simulator2.0/index.html",
+    "main.45e1622d.css.map": "/arknights-pass-simulator2.0/static/css/main.45e1622d.css.map",
+    "main.0df77efc.js.map": "/arknights-pass-simulator2.0/static/js/main.0df77efc.js.map"
   },
   "entrypoints": [
     "static/css/main.45e1622d.css",
